@@ -7,8 +7,8 @@ title: Obelisk
 tagline: 青空戏银竹，点点沁伊人
 description: >-
   一个简洁的个人博客
-url: "https://obelusod.github.io/humpy"
-baseurl: ""
+url: "https://obelusod.github.io"
+baseurl: "/humpy"
 
 theme_mode: # [light | dark]
 avatar: "/assets/img/avatar/avatar.png"
