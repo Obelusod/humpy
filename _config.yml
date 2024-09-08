@@ -10,6 +10,8 @@ description: >-
 url: "https://obelusod.github.io"
 baseurl: "/humpy"
 
+cdn: "https://cdn.jsdelivr.net/gh/obelusod/humpy@main"
+
 theme_mode: # [light | dark]
 avatar: "/assets/img/avatar/avatar.png"
 toc: true
